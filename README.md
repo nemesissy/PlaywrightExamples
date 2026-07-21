@@ -2,23 +2,20 @@
 
 ### App Under Test ###
 
-https://www.amsmeteors.org
-
-(2025/08/16)
+http://localhost:5173/ - Demo Ticketing System
 
 ### Pre-requisites ###
 
-* Im using Visual Studio Code to create
-* Im using NPM to manage
+* Clone and start the UI
+* $ git clone <Need to upload>
+* $ cd ./demo-frontend
+* $ npm run dev
 
 ### Setup
 
-* Install Playwright in your base repo directory:
+* $ git clone https://github.com/nemesissy/PlaywrightExamples.git
 * $ npm install @playwright/test
 * $ npx playwright install
-* GIT IGNORE
-* ignore all playwright files
-* dont modify
 
 ### Run all Tests
 
