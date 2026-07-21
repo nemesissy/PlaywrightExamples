@@ -6,7 +6,7 @@ http://localhost:5173/ - Demo Ticketing System
 
 ### Pre-requisites ###
 
-* Clone and start the UI
+* Clone and start the demo UI
 * $ git clone <Need to upload>
 * $ cd ./demo-frontend
 * $ npm run dev
